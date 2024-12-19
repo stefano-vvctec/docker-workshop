@@ -1,0 +1,11 @@
+{
+    "name": "simpleapi",
+    "version": "1.0.0",
+    "description": "super simple API example",
+    "main": "app.js",
+    "author": "Stefano",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
